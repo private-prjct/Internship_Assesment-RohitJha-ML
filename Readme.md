@@ -30,7 +30,7 @@ Object-Detection/
 |   └── annotated_images   # Saves the annotated images
 |   ├── annotated_videos   # Saves the annotated videos
 │   
-├── main.py                # Streamlit web interface for user interaction
+├── main_app.py                # Streamlit web interface for user interaction
 │
 ├── requirements.txt       # Python dependencies
 └── README.md              # Documentation
