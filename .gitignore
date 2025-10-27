@@ -1,0 +1,28 @@
+# ---- Python cache files ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual environment ----
+venv/
+.env/
+venv/Lib/
+
+# ---- OS-generated files ----
+.DS_Store
+Thumbs.db
+
+# ---- Model files ----
+*.pt
+
+# ---- Media files (large & generated) ----
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+
+
