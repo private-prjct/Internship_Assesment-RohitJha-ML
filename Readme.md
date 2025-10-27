@@ -43,8 +43,8 @@ Object-Detection/
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/rohitjhaofficial1503-wq/Object-Detection.git
-   cd Object-Detection
+   git clone https://github.com/private-prjct/Internship_Assesment-RohitJha-ML.git
+   cd Internship_Assesment-RohitJha-ML
    ```
 
 2. **Create a virtual environment and activate it:**
